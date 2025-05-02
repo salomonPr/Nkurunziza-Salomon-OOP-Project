@@ -14,8 +14,6 @@ Motor Vehicle Insurance System
 
 Each system implements abstraction, encapsulation, inheritance, and polymorphism, with input validation, reporting, and user interaction via Scanner.
 Advanced OOP Assignment 1 - Stock, Shopping, and Insurance Systems
-Author: Nkurunziza Salomon
-ID: 75464
 
 System Descriptions
 1. Advanced Stock Management System
@@ -149,9 +147,6 @@ Includes user interaction via Scanner class
 Comprehensive input validation throughout
 
 and also include docker image description
-Advanced OOP Assignment 1 - Stock, Shopping, and Insurance Systems
-Author: Nkurunziza Salomon
-ID: 75464
 
 Project Overview
 This project implements three advanced object-oriented systems:
@@ -307,11 +302,6 @@ System summaries
 Transaction details
 
 Inventory/policy status
-
-rewrite this readme in summary like two page and half
-Advanced OOP Systems - Assignment 1
-Author: Nkurunziza Salomon
-ID: 26898
 
 Project Summary
 This project consists of three object-oriented systems designed to demonstrate core OOP principles:
